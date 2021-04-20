@@ -1,0 +1,3 @@
+include ':chap02lib'
+include ':app'
+rootProject.name = "Chapter02"
